@@ -1,4 +1,4 @@
-This rover is my final project for the university.
+This rover is my final project for the university. This is the main code I used from other repositories used for guidelines.
 
 The rover has the following features for the arduino side:
 
