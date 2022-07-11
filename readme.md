@@ -1,6 +1,7 @@
 This rover is my final project for the university.
 
 The rover has the following features for the arduino side:
+
  -autonomous driving avoiding front obstacles
  
  -manual control via Bluetooth through a smartphone app made with App inventor
